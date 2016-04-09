@@ -1,3 +1,10 @@
+# Dynamic Cards
+
+## How to use:
+> Enter any or no text into the text input at the top left and click 'Create!'
+> A card headed by your input text will be printed to the DOM.
+> Click 'delete' on any card to remove it.
+
 ## Instructions
 
 1. Create an HTML page that contains a text area and a button labeled *Create*.
