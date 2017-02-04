@@ -2,9 +2,9 @@
 
 ## How to use:
 View this page at: http://www.midnightthunder.net/exercises/cards/index.html
-> Enter any or no text into the text input at the top left and click 'Create!'
-> A card headed by your input text will be printed to the DOM.
-> Click 'delete' on any card to remove it.
+1. Type your message into the input field.
+2. Click "create!"
+3. Click 'delete' on any card to remove it.
 
 ## Instructions
 
