@@ -1,7 +1,7 @@
 # Dynamic Cards
 
 ## How to use:
-View this page at: http://www.midnightthunder.net/exercises/cards/index.html
+View this page at: http://www.midnightthunder.net/exercises/cards/index.html  
 1. Type your message into the input field.  
 2. Click "create!"  
 3. Click 'delete' on any card to remove it.  
